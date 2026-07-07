@@ -63,7 +63,8 @@ body {
 
 /* Bloque de Intereses */
 .interests {
-    font-style: italic;
+    /* Aquí aplicamos la fuente principal de LaTeX */
+    font-family: 'Computer Modern Serif', serif; 
     background-color: #001a1a; 
     color: var(--text-main);
     padding: 15px 20px;
